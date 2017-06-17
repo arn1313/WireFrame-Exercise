@@ -1,0 +1,76 @@
+body{
+margin: 270px;
+}
+#cho{
+  font-size: 29px;
+}
+#logo{
+  font-family: 'Pacifico', cursive;
+padding-left: 3px;
+margin-left: 3px;
+  font-size: 26px;
+  display: inline;
+
+}
+#logo2{
+  padding-left: 3px;
+  margin-left: 3px;
+  font-size: 7PX;
+}
+
+.social li{
+  float: right;
+  display: inline;
+  list-style-type: none;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+}
+
+  .pizza{
+    clear: both;
+  }
+#date{
+  font-size: 10px;
+  opacity: .5;
+}
+.ing{
+columns: 2;
+font-family: 'Love Ya Like A Sister', cursive;
+background-image: url(images/list-bg.png);
+height:150px;
+
+}
+
+.ing ul li{
+  padding: 3px;
+}
+
+p{
+  margin-bottom: 10px;
+}
+.right{
+  font-family: 'Gentium Basic', serif;
+}
+.venn{
+  position: absolute;
+right:485px;
+top: 1400px;
+}
+.venn1{
+  position: absolute;
+right:940px;
+top: 1380px;
+font-size: 20px;
+}
+button{
+position: absolute;
+right:270px;
+top: 1380px;
+background-color: #e67300  ;
+   border: none;
+   color: white;
+   padding: 15px 32px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 14px;}
